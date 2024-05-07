@@ -1,0 +1,27 @@
+.header-page {
+  background-color: #39a900;
+  display: flex;
+  gap: 15px;
+  flex-direction: column;
+  color: white;
+  align-items: center;  
+}
+.imgFace{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  padding: 100px;
+ 
+}
+
+
+
+
+.imgSenaVerde{
+  width: 10rem;
+  height: auto;
+  background-color: white;
+  border-radius: 50%;
+  margin: 15rem 0 15rem 0;
+  border: 2px solid  #b3b3b3;
+}
