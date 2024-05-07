@@ -19,7 +19,7 @@ export const ReferenciaPersonal = () => {
           <label>Cargo</label>
           <span>{cargo}</span>
         </div>
-        <div>
+        <div> 
           <label>Teléfono</label>
           <span>{telefono}</span>
         </div>
