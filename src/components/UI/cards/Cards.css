@@ -12,13 +12,13 @@
   }
   
   .card img {
-    width: 150px; /* Ancho deseado para la imagen */
+    width: 150px; 
     height: auto;
     padding: 12px;
   }
   
   .card-content {
-    flex-grow: 1; /* El contenido ocupa todo el espacio disponible */
+    flex-grow: 1; 
     padding: 20px;
     display: flex;
     flex-direction: column;

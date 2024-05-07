@@ -16,31 +16,31 @@ export const Main = () => {
       </Containers>
       <Containers>
           <Tittles>
-            <img src="public/imgs/sena.webp" alt="" />
+            <img src="public/imgs/logoSena.png" alt="" />
             <h2>PROYECTOS</h2>
           </Tittles>
       </Containers>
       <div className='car'>
       <Card
-          imageUrl="\imgs\image.png"
+          imageUrl="\imgs\senaRe.png"
           title="PROYECTO 1"
           description="Descripción de la tarjeta 1."
           link="#"
         />
         <Card
-          imageUrl="\imgs\image.png"
+          imageUrl="\imgs\senaRe.png"
           title="PROYECTO 2"
           description="Descripción de la tarjeta 1."
           link="#"
         />
         <Card
-          imageUrl="\imgs\image.png"
+          imageUrl="\imgs\senaRe.png"
           title="PROYECTO 3"
           description="Descripción de la tarjeta 1."
           link="#"
         />
         <Card
-          imageUrl="\imgs\image.png"
+          imageUrl="\imgs\senaRe.png"
           title="PROYECTO 4"
           description="Descripción de la tarjeta 1."
           link="#"
@@ -48,7 +48,7 @@ export const Main = () => {
       </div>
       <Containers>
           <Tittles>
-          <img src="public/imgs/sena.webp" alt="" />
+          <img src="public/imgs/logoSena.png" alt="" />
             <h2>REFERENCIAS</h2>
           </Tittles>
       </Containers>
@@ -59,7 +59,7 @@ export const Main = () => {
       </div>
       <Containers>
           <Tittles>
-          <img src="public/imgs/sena.webp" alt="" />
+          <img src="public/imgs/logoSena.png" alt="" />
             <h2>EXPERIENCIA</h2>
           </Tittles>
       </Containers>

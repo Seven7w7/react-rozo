@@ -1,5 +1,5 @@
 import React from 'react';
-import './Cards.css'; // Asegúrate de tener un archivo CSS para los estilos
+import './Cards.css'; 
 
 export const  Card = ({ imageUrl, title, description, link }) => {
   return (

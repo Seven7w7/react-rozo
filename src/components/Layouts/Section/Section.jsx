@@ -6,7 +6,7 @@ export const Section = () => {
   return (
     <section className='section'>
       <Tittles>
-        <img src="public/imgs/sena.webp" alt="" />
+        <img src="/imgs/logoSena.png" alt="" />
         <h2>PERFIL</h2>
       </Tittles>
       <Containers>
